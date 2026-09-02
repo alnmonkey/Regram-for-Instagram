@@ -1,7 +1,7 @@
-[IG-SL]: https://fouadraheb.com/dl/storage/ipa/1787487946004-ye8iy/com.burbn.instagram_443.1.0_regram_6.0.1_sl.ipa
-[IG-SL-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1787487946004-tz5lk/com.burbn.instagram_443.1.0_regram_6.0.1_sl_noplugs.ipa
-[IG-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1787487946004-6r46a/com.fouadraheb.regram_443.1.0_regram_6.0.1_sl.ipa
-[IG-TS]: https://fouadraheb.com/dl/storage/ipa/1787487946001-9iphm/com.burbn.instagram_443.1.0_regram_6.0.1_ts.ipa
+[IG-SL]: https://fouadraheb.com/dl/storage/ipa/1788339843574-tvhcx/com.burbn.instagram_445.0.0_regram_6.1_sl.ipa
+[IG-SL-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1788339843573-4m0ux/com.burbn.instagram_445.0.0_regram_6.1_sl_noplugs.ipa
+[IG-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1788339843572-m5b7s/com.fouadraheb.regram_445.0.0_regram_6.1_sl.ipa
+[IG-TS]: https://fouadraheb.com/dl/storage/ipa/1788339843568-m8rhw/com.burbn.instagram_445.0.0_regram_6.1_ts.ipa
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
@@ -26,10 +26,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     | Application | Bundle | Version | Regram |
     | ------------------ |:---------:|:------:|:------:|
-    | [Instagram][IG-SL] | com.burbn.instagram | 443.1 | 6.0.1 |
-    | [Instagram - No-Plugins][IG-SL-NoPlugins] | com.burbn.instagram | 443.1 | 6.0.1 |
-    | [Instagram - Duplicate][IG-SL-Duplicate] | com.fouadraheb.regram | 443.1 | 6.0.1 |
-    | [Instagram - TrollStore][IG-TS] | com.burbn.instagram | 443.1 | 6.0.1 |
+    | [Instagram][IG-SL] | com.burbn.instagram | 445.0 | 6.1 |
+    | [Instagram - No-Plugins][IG-SL-NoPlugins] | com.burbn.instagram | 445.0 | 6.1 |
+    | [Instagram - Duplicate][IG-SL-Duplicate] | com.fouadraheb.regram | 445.0 | 6.1 |
+    | [Instagram - TrollStore][IG-TS] | com.burbn.instagram | 445.0 | 6.1 |
 
     <sup>If you have a paid certificate, you need to use original version and sign it with a Distribution/Ad-Hoc certificate to get notifications.</sup>
     
@@ -76,7 +76,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
 * Make sure no other Instagram with the same bundle identifier is installed. (com.burbn.instagram if you chose the original IPA or com.fouadraheb.regram for the duplicate)
 
-* If you have AltStore Beta, you can add our AltStore source (https://altstore.fouadraheb.com) and download apps directly from AltStore.
+* You can add our AltStore source (https://altstore.fouadraheb.com) and download apps directly.
 
 * If you don't have access to AltStore sources, download the IPA file from the link above and copy it to your phone, using iCloud Drive, AirDrop, or any other method. Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file. When prompted sign in with your Apple ID. Two-factor Authentication is supported, but app-specific passwords are not.
 </details>
